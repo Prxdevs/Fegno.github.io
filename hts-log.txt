@@ -1,0 +1,184 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 May 2023 16:40:41 at https://www.fegno.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.fegno.com/ -O1 "C:\Users\super\Desktop\fegno\fegno" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:40:42	Warning: 	Note: due to https://www.fegno.com remote robots.txt rules, links beginning with these path will be forbidden: /?s=, /search/, /category/* (see in the options to disable this)
+16:41:50	Warning: 	Retry after error -4 (Connect Error) at link localhost/fegno/wp-content/uploads/2023/01/gradient.png (from https://www.fegno.com/)
+16:41:50	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.fegno.com/)
+16:44:41	Error: 	"Not Found" (404) at link https://www.fegno.com/wp-content/uploads/2022/02/Fegno-logo-final.svg (from https://www.fegno.com/)
+16:44:44	Error: 	"Not Found" (404) at link https://www.fegno.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+16:44:44	Warning: 	Retry after error -4 (Connect Error) at link localhost/fegno/wp-content/uploads/2023/01/gradient.png (from https://www.fegno.com/)
+16:44:47	Warning: 	Retry after error -4 (Connect Error) at link localhost/fegno/wp-content/uploads/2022/02/ABOUT.png (from https://www.fegno.com/about-us/)
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=134
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=134 to https://www.fegno.com/about-us/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=37391
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=37391 to https://www.fegno.com/solutions/web-development-company-in-kochi/
+16:44:47	Error: 	"Not Found" (404) at link https://www.fegno.com/solutions/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/solutions/web-development-company-in-kochi/)
+16:44:47	Error: 	"Not Found" (404) at link https://www.fegno.com/solutions/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/solutions/web-development-company-in-kochi/)
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=37565
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=37565 to https://www.fegno.com/solutions/mobile-app-development-company-in-kochi/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=38384
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=38384 to https://www.fegno.com/solutions/progressive-web-app-development-company/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=3000
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=3000 to https://www.fegno.com/solutions/ui-ux-designing-company/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=37322
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=37322 to https://www.fegno.com/solutions/creative-designing-company-in-kochi/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=4492
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=4492 to https://www.fegno.com/solutions/top-digital-marketing-company-in-kochi/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=46510
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=46510 to https://www.fegno.com/solutions/ecommerce-development-company/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=43563
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=43563 to https://www.fegno.com/products/warehouse-management/
+16:44:47	Error: 	"Not Found" (404) at link https://www.fegno.com/products/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/products/warehouse-management/)
+16:44:47	Error: 	"Not Found" (404) at link https://www.fegno.com/products/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/products/warehouse-management/)
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=42988
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=42988 to https://www.fegno.com/products/work-force/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=42992
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=42992 to https://www.fegno.com/products/grocery-application/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=42993
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=42993 to https://www.fegno.com/products/furniture-b2b-ecommerce/
+16:44:47	Error: 	"Not Found" (404) at link https://www.fegno.com/wp-content/uploads/2022/03/Asset-1-1.svg (from https://www.fegno.com/products/furniture-b2b-ecommerce/)
+16:44:47	Error: 	"Not Found" (404) at link https://www.fegno.com/wp-content/uploads/2022/03/Asset-8.svg (from https://www.fegno.com/products/furniture-b2b-ecommerce/)
+16:44:47	Error: 	"Not Found" (404) at link https://www.fegno.com/wp-content/uploads/2022/03/Asset-2.svg (from https://www.fegno.com/products/furniture-b2b-ecommerce/)
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=42994
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=42994 to https://www.fegno.com/products/dinepad/
+16:44:47	Warning: 	Retry after error -4 (Connect Error) at link localhost/fegno/wp-content/uploads/2022/03/New-Project-3.png (from https://www.fegno.com/technologies/)
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=42252
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=42252 to https://www.fegno.com/technologies/
+16:44:47	Warning: 	Moved Permanently for https://www.fegno.com/?p=43072
+16:44:47	Warning: 	File has moved from https://www.fegno.com/?p=43072 to https://www.fegno.com/careers/
+16:44:54	Warning: 	Moved Permanently for https://www.fegno.com/?p=325
+16:44:54	Warning: 	File has moved from https://www.fegno.com/?p=325 to https://www.fegno.com/portfolio/
+16:45:09	Warning: 	Moved Permanently for https://www.fegno.com/?p=41568
+16:45:09	Warning: 	File has moved from https://www.fegno.com/?p=41568 to https://www.fegno.com/blog/
+16:45:59	Warning: 	Moved Permanently for https://www.fegno.com/?p=183
+16:45:59	Warning: 	File has moved from https://www.fegno.com/?p=183 to https://www.fegno.com/contact-us/
+16:45:59	Warning: 	Moved Permanently for https://www.fegno.com/?p=42695
+16:45:59	Warning: 	File has moved from https://www.fegno.com/?p=42695 to https://www.fegno.com/fegnos-solution-to-every-technological-needs/
+16:46:00	Warning: 	Moved Permanently for https://www.fegno.com/?p=45618
+16:46:00	Warning: 	File has moved from https://www.fegno.com/?p=45618 to https://www.fegno.com/10-ways-to-choose-the-best-software-development-company/
+16:46:00	Error: 	"Method Not Allowed" (405) at link https://www.fegno.com/xmlrpc.php (from https://www.fegno.com/10-ways-to-choose-the-best-software-development-company/)
+16:46:00	Warning: 	Moved Permanently for https://www.fegno.com/?p=44888
+16:46:00	Warning: 	File has moved from https://www.fegno.com/?p=44888 to https://www.fegno.com/warehouse-management-system-and-its-business-use/
+16:46:00	Warning: 	Moved Permanently for https://www.fegno.com/?p=54055
+16:46:00	Warning: 	File has moved from https://www.fegno.com/?p=54055 to https://www.fegno.com/how-to-choose-wms/
+16:46:01	Warning: 	Moved Permanently for https://www.fegno.com/?p=53822
+16:46:01	Warning: 	File has moved from https://www.fegno.com/?p=53822 to https://www.fegno.com/is-artificial-intelligence-a-boon-or-bane/
+16:46:01	Warning: 	Moved Permanently for https://www.fegno.com/?p=38065
+16:46:01	Warning: 	File has moved from https://www.fegno.com/?p=38065 to https://www.fegno.com/nginx-configuration-file-to-host-website-on-ubuntu/
+16:46:01	Warning: 	Moved Permanently for https://www.fegno.com/?p=39721
+16:46:01	Warning: 	File has moved from https://www.fegno.com/?p=39721 to https://www.fegno.com/one-year-with-flutter/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=52876
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=52876 to https://www.fegno.com/the-power-of-ai/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=52703
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=52703 to https://www.fegno.com/fleet-management-system/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=52148
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=52148 to https://www.fegno.com/software-development-lifecycle-sdlc/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=51935
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=51935 to https://www.fegno.com/azure-devops/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=51880
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=51880 to https://www.fegno.com/nlp-technology-and-its-adoption-in-modern-day-enterprise/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=51067
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=51067 to https://www.fegno.com/what-is-performance-marketing/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=48129
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=48129 to https://www.fegno.com/web-application-penetration-testing/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=47739
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=47739 to https://www.fegno.com/what-is-joint-application-development-jad/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=45351
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=45351 to https://www.fegno.com/how-digital-marketing-affects-consumer-behaviour/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=42764
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=42764 to https://www.fegno.com/digital-marketing-service-by-fegno-technologies/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=42017
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=42017 to https://www.fegno.com/personal-branding-and-ways-to-achieve-it/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/job-opening/
+16:46:02	Warning: 	File has moved from https://www.fegno.com/job-opening/ to https://www.fegno.com/job-openings-2/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=42038
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=42038 to https://www.fegno.com/five-lessons-to-benefit-from-lean-startup/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=41223
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=41223 to https://www.fegno.com/who-will-control-the-future/
+16:46:02	Warning: 	Moved Permanently for https://www.fegno.com/?p=41116
+16:46:02	Warning: 	File has moved from https://www.fegno.com/?p=41116 to https://www.fegno.com/neuromarketing-in-e-commerce/
+16:46:03	Warning: 	Moved Permanently for https://www.fegno.com/digital-marketing-what-why-how/
+16:46:03	Warning: 	File has moved from https://www.fegno.com/digital-marketing-what-why-how/ to https://www.fegno.com/digital-marketing-what-why-how-to-do-it/
+16:46:03	Warning: 	Moved Permanently for https://www.fegno.com/?p=41180
+16:46:03	Warning: 	File has moved from https://www.fegno.com/?p=41180 to https://www.fegno.com/what-is-cro-conversion-rate-optimization/
+16:46:03	Warning: 	Moved Permanently for https://www.fegno.com/?p=41078
+16:46:03	Warning: 	File has moved from https://www.fegno.com/?p=41078 to https://www.fegno.com/artificial-intelligence-ai-in-digital-marketing/
+16:46:04	Warning: 	Moved Permanently for https://www.fegno.com/?p=40749
+16:46:04	Warning: 	File has moved from https://www.fegno.com/?p=40749 to https://www.fegno.com/design-for-better-user-experience-with-example/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=39609
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=39609 to https://www.fegno.com/ingenuity-will-now-fly-high-on-mars/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=39737
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=39737 to https://www.fegno.com/aggregated-event-measurement-facebook-conversion-api/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=39336
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=39336 to https://www.fegno.com/digital-marketing-what-why-how-to-do-it/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=38019
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=38019 to https://www.fegno.com/build-bottom-navigation-bar-with-micro-interactions/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=37702
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=37702 to https://www.fegno.com/setup-flutter-for-application-development-on-mac/
+16:46:05	Error: 	"File Not Found" (404) at link https://i2.wp.com/www.fegno.com/wp-content/uploads/2021/01/hm8-20.png?resize=46%2C44&ssl=1 (from https://www.fegno.com/setup-flutter-for-application-development-on-mac/)
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=38152
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=38152 to https://www.fegno.com/what-is-programmatic-advertising/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=38130
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=38130 to https://www.fegno.com/digital-marketing-revolutionizing-the-digital-world/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=38118
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=38118 to https://www.fegno.com/how-to-install-nginx-on-ubuntu/
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=40684
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=40684 to https://www.fegno.com/solutions/best-ready-made-solutions/
+16:46:05	Error: 	"Connect Error" (-4) after 2 retries at link localhost/fegno/wp-content/uploads/2023/01/gradient.png (from https://www.fegno.com/)
+16:46:05	Warning: 	Retry after error -4 (Connect Error) at link localhost/fegno/wp-content/uploads/2022/02/ABOUT.png (from https://www.fegno.com/about-us/)
+16:46:05	Warning: 	Retry after error -4 (Connect Error) at link localhost/fegno/wp-content/uploads/2022/03/New-Project-3.png (from https://www.fegno.com/technologies/)
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=54276
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=54276 to https://www.fegno.com/jobs/business-development-officer/
+16:46:05	Error: 	"Not Found" (404) at link https://www.fegno.com/jobs/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/jobs/business-development-officer/)
+16:46:05	Error: 	"Not Found" (404) at link https://www.fegno.com/jobs/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/jobs/business-development-officer/)
+16:46:05	Warning: 	Moved Permanently for https://www.fegno.com/?p=52824
+16:46:05	Warning: 	File has moved from https://www.fegno.com/?p=52824 to https://www.fegno.com/jobs/front-end-developer-2/
+16:46:06	Warning: 	Moved Permanently for https://www.fegno.com/?p=52241
+16:46:06	Warning: 	File has moved from https://www.fegno.com/?p=52241 to https://www.fegno.com/jobs/wordpress-developer-2/
+16:46:06	Warning: 	Moved Permanently for https://www.fegno.com/?p=52205
+16:46:06	Warning: 	File has moved from https://www.fegno.com/?p=52205 to https://www.fegno.com/jobs/content-writer/
+16:46:06	Warning: 	Moved Permanently for https://www.fegno.com/?p=42919
+16:46:06	Warning: 	File has moved from https://www.fegno.com/?p=42919 to https://www.fegno.com/jobs/42919/
+16:46:08	Error: 	"Not Found" (404) at link https://www.fegno.com/case_study/granitogres-website-development-project/%22https:/www.fegno.com/case_study/granitogres-website-development-project/ (from https://www.fegno.com/case_study/granitogres-website-development-project/)
+16:46:08	Warning: 	Moved Permanently for https://www.fegno.com/?p=53667
+16:46:08	Warning: 	File has moved from https://www.fegno.com/?p=53667 to https://www.fegno.com/case_study/granitogres-website-development-project/
+16:46:08	Error: 	"Not Found" (404) at link https://www.fegno.com/case_study/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/case_study/granitogres-website-development-project/)
+16:46:08	Error: 	"Not Found" (404) at link https://www.fegno.com/case_study/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/case_study/granitogres-website-development-project/)
+16:46:08	Error: 	"Not Found" (404) at link https://www.fegno.com/portfolio/page/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/portfolio/page/2/)
+16:46:08	Error: 	"Not Found" (404) at link https://www.fegno.com/portfolio/page/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/portfolio/page/2/)
+16:46:08	Warning: 	Moved Permanently for https://www.fegno.com/portfolio/page/1/
+16:46:08	Warning: 	File has moved from https://www.fegno.com/portfolio/page/1/ to https://www.fegno.com/portfolio/
+16:46:10	Error: 	"Not Found" (404) at link https://www.fegno.com/blog/page/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/blog/page/2/)
+16:46:10	Error: 	"Not Found" (404) at link https://www.fegno.com/blog/page/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/blog/page/2/)
+16:46:19	Warning: 	Moved Permanently for https://www.fegno.com/blog/page/1/
+16:46:19	Warning: 	File has moved from https://www.fegno.com/blog/page/1/ to https://www.fegno.com/blog/
+16:46:32	Error: 	"Not Found" (404) at link https://www.fegno.com/category/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/category/development/)
+16:46:32	Error: 	"Not Found" (404) at link https://www.fegno.com/category/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/category/development/)
+16:46:33	Error: 	"Not Found" (404) at link https://www.fegno.com/tag/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/tag/aggregated-event-measurement-tool/)
+16:46:33	Error: 	"Not Found" (404) at link https://www.fegno.com/tag/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/tag/aggregated-event-measurement-tool/)
+16:46:33	Error: 	"Not Found" (404) at link https://www.fegno.com/author/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/author/akhil/)
+16:46:33	Error: 	"Not Found" (404) at link https://www.fegno.com/author/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/author/akhil/)
+16:46:35	Error: 	"Connect Error" (-4) after 2 retries at link localhost/fegno/wp-content/uploads/2022/02/ABOUT.png (from https://www.fegno.com/about-us/)
+16:46:35	Error: 	"Connect Error" (-4) after 2 retries at link localhost/fegno/wp-content/uploads/2022/03/New-Project-3.png (from https://www.fegno.com/technologies/)
+16:46:35	Warning: 	Moved Permanently for https://www.fegno.com/portfolio/page/1/?category=mobile-app
+16:46:35	Warning: 	File has moved from https://www.fegno.com/portfolio/page/1/?category=mobile-app to https://www.fegno.com/portfolio/?category=mobile-app
+16:46:35	Warning: 	Moved Permanently for https://www.fegno.com/portfolio/page/1/?category=website-development
+16:46:35	Warning: 	File has moved from https://www.fegno.com/portfolio/page/1/?category=website-development to https://www.fegno.com/portfolio/?category=website-development
+16:46:35	Warning: 	Moved Permanently for https://www.fegno.com/blog/page/1/?category=digital-marketing
+16:46:35	Warning: 	File has moved from https://www.fegno.com/blog/page/1/?category=digital-marketing to https://www.fegno.com/blog/?category=digital-marketing
+16:46:35	Warning: 	Moved Permanently for https://www.fegno.com/blog/page/1/?category=technology
+16:46:35	Warning: 	File has moved from https://www.fegno.com/blog/page/1/?category=technology to https://www.fegno.com/blog/?category=technology
+16:46:35	Error: 	"Not Found" (404) at link https://www.fegno.com/category/technology/page/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/category/technology/page/2/)
+16:46:35	Error: 	"Not Found" (404) at link https://www.fegno.com/category/technology/page/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/category/technology/page/2/)
+16:46:35	Error: 	"Not Found" (404) at link https://www.fegno.com/author/akhil/page/wp-content/uploads/2022/04/noun-next-1096296-Copy.png (from https://www.fegno.com/author/akhil/page/2/)
+16:46:35	Error: 	"Not Found" (404) at link https://www.fegno.com/author/akhil/page/wp-content/uploads/2022/04/noun-next-1096296.png (from https://www.fegno.com/author/akhil/page/2/)
+16:46:35	Warning: 	Moved Permanently for https://www.fegno.com/?p=43063
+16:46:35	Warning: 	File has moved from https://www.fegno.com/?p=43063 to https://www.fegno.com/job-openings-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 54 seconds : 943 links scanned, 835 files written (101415188 bytes overall) [60831782 bytes received at 171841 bytes/sec], 51797009 bytes transferred using HTTP compression in 235 files, ratio 19%, 25.9 requests per connection
+(34 errors, 139 warnings, 0 messages)
